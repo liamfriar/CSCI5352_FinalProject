@@ -123,4 +123,5 @@ output = pd.DataFrame( [env_sanity_rho, env_sanity_pval,
                         ], columns=['median', 'min', 'max'] )
 output.insert(0, 'Test', output_names)
 
-output.to_csv('run1/' + run_folder + 'TaxaAnalysis.csv', index = False)
+#output.to_csv('run1/' + run_folder + 'TaxaAnalysis.csv', index = False)
+output = pd.read_csv('run1/' + run_folder + 'TaxaAnalysis.csv')
