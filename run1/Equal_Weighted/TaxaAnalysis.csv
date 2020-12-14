@@ -1,0 +1,23 @@
+Test,median,min,max
+EnvPrefs_RelAbund_SRC,"0    0.752634
+dtype: float64","0    0.282654
+dtype: float64","0    0.887206
+dtype: float64"
+EnvPrefs_RelAbund_p,"0    1.741669e-19
+dtype: float64","0    1.079592e-34
+dtype: float64","0    0.004381
+dtype: float64"
+EnvParams_RelAbund_SRC,0.5951150000000001,0.24396,0.80777
+EnvParams_RelAbund_p,"0    6.793910e-11
+dtype: float64","0    3.185269e-24
+dtype: float64","0    0.014443
+dtype: float64"
+RelationshipPartners_SRC_rank,0.510204081632653,0.0,1.0
+EnvPrefsSimilarity_RelAbund_SRC,"0   -0.054502
+dtype: float64","0   -0.285686
+dtype: float64","0    0.127323
+dtype: float64"
+EnvPrefsSimilarity_RelAbund_p,"0    0.508928
+dtype: float64","0    0.003961
+dtype: float64","0    0.993548
+dtype: float64"
